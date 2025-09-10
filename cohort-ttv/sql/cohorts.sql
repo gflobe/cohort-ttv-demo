@@ -1,0 +1,1 @@
+-- See README for shapes; compute retention with user-month activity and cohort months.

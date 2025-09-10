@@ -1,0 +1,7 @@
+segment,metric,value
+A,Activation Rate,0.612
+A,30d Retention,0.483
+A,90d Retention,0.371
+B,Activation Rate,0.695
+B,30d Retention,0.556
+B,90d Retention,0.434
